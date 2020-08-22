@@ -1,7 +1,4 @@
-# GooglebotChecker
-The notebook verifies that IPs in a .csv file are genuinely from Googlebots, via reverse/forward DNS lookups.
-
-# Googlebot Checker V1
+## Googlebot Checker V1
 
 The notebook verifies that IPs in a .csv file are genuinely from Googlebots, via reverse/forward DNS lookups.
 
