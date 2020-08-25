@@ -10,4 +10,4 @@ Note that the script is still in its early days, thus:
 *   The reverse-DNS checks are currently limited to Googlebots
 *   Bingbots and more user agents will be added soon!
 
-[Reach me out on Twitter](https://twitter.com/DataChaz) if questions - Pull requests on [Github](https://github.com/CharlyWargnier/GooglebotChecker) are welcome! :)
+[Reach me out on Twitter](https://twitter.com/DataChaz) if questions - Pull requests are welcome! :)
